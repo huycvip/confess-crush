@@ -14,7 +14,7 @@ const CONFIG = {
     question: 'Cậu biết tớ nghĩ gì về cậu hong?',
     btnReply: 'Đáng iu',
     reply: 'Tớ thấy cậu cũng quá là cute',
-    mess: 'Cậu cũng biết hả 🥰. Người đáng iu như cậu chắc chắn sẽ hợp với người dễ thương như mình 😘😘',
+    mess: 'Cậu cũng biết hả 🥰. Người đáng iu như cậu chắc chắn sẽ chịu cho mình cơ hội để cute cùng cậu ròi 😘😘',
     messDesc: 'Gòi gỡ block cho tớ đi nhóe!!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100011800414708' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536

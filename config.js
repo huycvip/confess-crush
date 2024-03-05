@@ -11,11 +11,11 @@ const CONFIG = {
     desc: 'Chúng ta sẽ viết tiếp những câu chuyện đẹp còn dang dở',
     btnYes: 'Chịu lun <33',
     btnNo: 'Không nha :3',
-    question: 'Bạn thấy tớ như thế nào',
-    btnReply: 'Tớ thấy cậu cũng quá là cute',
-    reply: 'Chịu thì chịu hông chịu thì chịu',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    question: 'Cậu biết tớ nghĩ gì về cậu hong?',
+    btnReply: 'Đáng iu',
+    reply: 'Tớ thấy cậu cũng quá là cute',
+    mess: 'Cậu cũng biết hả 🥰. Người đáng iu như cậu chắc chắn sẽ hợp với người dễ thương như mình 😘😘',
     messDesc: 'Gòi gỡ block cho tớ đi nhóe!!',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/messages/t/100011800414708' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }

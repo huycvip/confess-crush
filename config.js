@@ -8,7 +8,7 @@ const CONFIG = {
     Năm nay không thể vì INNOVATION CAMP mà tớ đánh mất người của HSV đâu`,
     btnIntro: 'Tin tớ nhé!!',
     title: 'Gỡ nút thắt giữa hai chúng ta đi nào 🥰',
-    desc: 'Chúng ta sẽ viết tiếp những câu chuyện hề hước còn dang dở',
+    desc: 'Chúng ta sẽ viết tiếp những câu chuyện đẹp còn dang dở',
     btnYes: 'Chịu lun <33',
     btnNo: 'Không nha :3',
     question: 'Bạn thấy tớ như thế nào',
